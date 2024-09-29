@@ -1,0 +1,56 @@
+user_id,first_name,last_name,email,transaction_id,user_id,amount,location,timestamp,transaction_type
+1,Alice,Smith,alice@example.com,1,1,5000.00,"Los Angeles","2024-09-28 15:00:00",debit
+1,Alice,Smith,alice@example.com,4,1,450.75,Chicago,"2024-09-28 15:15:00",debit
+1,Alice,Smith,alice@example.com,8,1,700.50,"Los Angeles","2024-09-28 15:35:00",debit
+1,Alice,Smith,alice@example.com,12,1,6000.00,Chicago,"2024-09-28 15:55:00",debit
+1,Alice,Smith,alice@example.com,16,1,750.00,"Los Angeles","2024-09-28 16:15:00",debit
+1,Alice,Smith,alice@example.com,20,1,8500.00,Chicago,"2024-09-28 16:35:00",debit
+1,Alice,Smith,alice@example.com,24,1,600.50,"Los Angeles","2024-09-28 16:55:00",debit
+1,Alice,Smith,alice@example.com,28,1,3500.00,Chicago,"2024-09-28 17:15:00",debit
+1,Alice,Smith,alice@example.com,32,1,500.00,"Los Angeles","2024-09-28 17:35:00",debit
+1,Alice,Smith,alice@example.com,36,1,800.00,Chicago,"2024-09-28 17:55:00",debit
+1,Alice,Smith,alice@example.com,40,1,9000.00,"Los Angeles","2024-09-28 18:15:00",debit
+1,Alice,Smith,alice@example.com,44,1,650.00,Chicago,"2024-09-28 18:35:00",debit
+1,Alice,Smith,alice@example.com,48,1,1200.00,"Los Angeles","2024-09-28 18:55:00",debit
+1,Alice,Smith,alice@example.com,52,1,3000.00,Chicago,"2024-09-28 19:15:00",debit
+2,Bob,Johnson,bob@example.com,2,2,150.25,"New York","2024-09-28 15:05:00",debit
+2,Bob,Johnson,bob@example.com,5,2,3200.50,Sydney,"2024-09-28 15:20:00",debit
+2,Bob,Johnson,bob@example.com,9,2,2500.00,"New York","2024-09-28 15:40:00",debit
+2,Bob,Johnson,bob@example.com,13,2,180.00,Sydney,"2024-09-28 16:00:00",debit
+2,Bob,Johnson,bob@example.com,17,2,1200.00,"New York","2024-09-28 16:20:00",debit
+2,Bob,Johnson,bob@example.com,21,2,220.75,Sydney,"2024-09-28 16:40:00",debit
+2,Bob,Johnson,bob@example.com,25,2,320.00,"New York","2024-09-28 17:00:00",debit
+2,Bob,Johnson,bob@example.com,29,2,1600.00,Sydney,"2024-09-28 17:20:00",debit
+2,Bob,Johnson,bob@example.com,33,2,145.50,"New York","2024-09-28 17:40:00",debit
+2,Bob,Johnson,bob@example.com,37,2,5000.00,Sydney,"2024-09-28 18:00:00",debit
+2,Bob,Johnson,bob@example.com,41,2,350.25,"New York","2024-09-28 18:20:00",debit
+2,Bob,Johnson,bob@example.com,45,2,100.00,Sydney,"2024-09-28 18:40:00",debit
+2,Bob,Johnson,bob@example.com,49,2,200.00,"New York","2024-09-28 19:00:00",debit
+2,Bob,Johnson,bob@example.com,53,2,450.00,Sydney,"2024-09-28 19:20:00",debit
+3,Charlie,Brown,charlie@example.com,3,3,200.00,Tokyo,"2024-09-28 15:10:00",credit
+3,Charlie,Brown,charlie@example.com,6,3,1800.00,Paris,"2024-09-28 15:25:00",credit
+3,Charlie,Brown,charlie@example.com,10,3,300.00,Tokyo,"2024-09-28 15:45:00",credit
+3,Charlie,Brown,charlie@example.com,14,3,500.00,Paris,"2024-09-28 16:05:00",credit
+3,Charlie,Brown,charlie@example.com,18,3,250.00,Tokyo,"2024-09-28 16:25:00",credit
+3,Charlie,Brown,charlie@example.com,22,3,350.00,Paris,"2024-09-28 16:45:00",credit
+3,Charlie,Brown,charlie@example.com,26,3,400.00,Tokyo,"2024-09-28 17:05:00",credit
+3,Charlie,Brown,charlie@example.com,30,3,100.00,Paris,"2024-09-28 17:25:00",credit
+3,Charlie,Brown,charlie@example.com,34,3,600.00,Tokyo,"2024-09-28 17:45:00",credit
+3,Charlie,Brown,charlie@example.com,38,3,300.50,Paris,"2024-09-28 18:05:00",credit
+3,Charlie,Brown,charlie@example.com,42,3,450.00,Tokyo,"2024-09-28 18:25:00",credit
+3,Charlie,Brown,charlie@example.com,46,3,125.00,Paris,"2024-09-28 18:45:00",credit
+3,Charlie,Brown,charlie@example.com,50,3,500.00,Tokyo,"2024-09-28 19:05:00",credit
+3,Charlie,Brown,charlie@example.com,54,3,800.00,Paris,"2024-09-28 19:25:00",credit
+4,David,Williams,david@example.com,7,4,50.00,Miami,"2024-09-28 15:30:00",debit
+4,David,Williams,david@example.com,11,4,125.00,Miami,"2024-09-28 15:50:00",debit
+4,David,Williams,david@example.com,15,4,75.00,Miami,"2024-09-28 16:10:00",debit
+4,David,Williams,david@example.com,19,4,300.00,Miami,"2024-09-28 16:30:00",debit
+4,David,Williams,david@example.com,23,4,400.00,Miami,"2024-09-28 16:50:00",debit
+4,David,Williams,david@example.com,27,4,200.00,Miami,"2024-09-28 17:10:00",debit
+4,David,Williams,david@example.com,31,4,275.00,Miami,"2024-09-28 17:30:00",debit
+4,David,Williams,david@example.com,35,4,350.00,Miami,"2024-09-28 17:50:00",debit
+4,David,Williams,david@example.com,39,4,50.00,Miami,"2024-09-28 18:10:00",debit
+4,David,Williams,david@example.com,43,4,225.00,Miami,"2024-09-28 18:30:00",debit
+4,David,Williams,david@example.com,47,4,375.00,Miami,"2024-09-28 18:50:00",debit
+4,David,Williams,david@example.com,51,4,150.00,Miami,"2024-09-28 19:10:00",debit
+4,David,Williams,david@example.com,55,4,275.00,Miami,"2024-09-28 19:30:00",debit
