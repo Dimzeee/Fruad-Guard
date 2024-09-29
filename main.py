@@ -121,7 +121,6 @@ def fraud_trends(specific_user):
         response = openai.ChatCompletion.create(
             model="gpt-4o",
             messages=[{"role": "system", "content": prompt}]
-
         )
 
         advice = response['choices'][0]['message']['content']
